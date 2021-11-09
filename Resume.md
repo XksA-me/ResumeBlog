@@ -70,9 +70,9 @@
 
 > 感谢抽空阅读
 
-- [数据分析师如何写出一份脱颖而出的简历](https://github.com/XksA-me/Resume-)
+- [数据分析师如何写出一份脱颖而出的简历](https://mp.weixin.qq.com/s/5wKHtMy7XoW5axvI_z8AFg)
 
-- [项目GitHub地址](https://github.com/XksA-me/Resume-)
+- [项目GitHub地址](https://github.com/XksA-me/ResumeBlog)
 
 - [免费领取一台云服务器攻略](http://simple.python-brief.com:8081/?app=activity_introduction)
 

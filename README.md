@@ -103,4 +103,7 @@ if __name__ == '__main__':
 
 本项目源码地址：[https://github.com/XksA-me/resumeblog](https://github.com/XksA-me/resumeblog)
 
+**如何找到我：**
+<center><img src="https://img-blog.csdnimg.cn/b167156136e840a2a037079e7353d307.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA566A6K-0UHl0aG9u,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center" width=90%> </center>
+
 
